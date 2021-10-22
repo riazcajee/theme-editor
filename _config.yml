@@ -1,0 +1,10 @@
+nttitle: "My first github page"
+author: Riaz Cajee
+email: riaz.cajee@gmail.com
+description: > # New Github website with customised pages
+
+# social links
+twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
+github_username: riazcajee
+
+show_excerpts: false # set to false to remove excerpts on the homepage
